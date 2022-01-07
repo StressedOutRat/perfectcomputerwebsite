@@ -2,14 +2,22 @@ body {
   background-color: powderblue;
   text-align: center;
 }
+
+body {
+  background-image: url("https://web.archive.org/web/20091027082750/http://hk.geocities.com/fok2111/background.gif");
+  background-repeat: repeat;
+}
+
 h1 {
   color: green;
   text-align: center;
 }
+
 p {
   color: red;
   text-align: center;
 }
+
 img {
   display: block;
   margin-left: auto;
