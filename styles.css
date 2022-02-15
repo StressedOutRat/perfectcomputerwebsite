@@ -6,6 +6,11 @@ body {
   background-repeat: repeat;
 }
 
+h2 {
+  color: white;
+  font-family: "Comic Sans MS", "Comic Sans", "MS Comic Sans";
+}
+
 p {
   color: white;
   font-size: 4vw;
@@ -13,11 +18,12 @@ p {
   margin-top: 0px;
 }
 
+
+
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
 }
 
 #links {
