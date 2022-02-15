@@ -24,6 +24,10 @@ img {
   margin-right: auto;
 }
 
+#wrapper {
+	height: 100vh;
+}
+
 #links {
 	padding-top: 20px;
 	padding-right: 20px;
