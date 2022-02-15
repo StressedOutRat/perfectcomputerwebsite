@@ -25,7 +25,8 @@ img {
 }
 
 #wrapper {
-	height: 100vh;
+	height: 100%;
+	position:absolute;
 }
 
 #links {
