@@ -33,7 +33,7 @@ img {
 
 @media only screen and (max-width: 620px) {
   /* For mobile phones: */
-  #warpper{
+  #wrapper{
     width: 100%;
   }
 
