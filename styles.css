@@ -26,6 +26,7 @@ img {
 
 #wrapper {
 	text-align: center;
+	align: center;
 	width: 30%;
 	position: absolute;
 }
