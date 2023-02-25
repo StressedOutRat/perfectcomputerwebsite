@@ -25,6 +25,7 @@ img {
 }
 
 #wrapper {
+	background-color: white;
 	text-align: center;
 	height: 70%;
 	position: absolute;
