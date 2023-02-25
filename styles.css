@@ -31,11 +31,13 @@ img {
 	position: absolute;
 }
 
+/*
 @media only screen and (max-width: 620px) {
-  /* For mobile phones: */
+  /* For mobile phones: 
   #wrapper {
     width: 100%;
   }
+*/
 
 #links {
 	padding-top: 20px;
